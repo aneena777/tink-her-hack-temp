@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [fem-health] 🎯
 
-## Basic Details
+## basic details:-ITS A DIET PLAN CUM MESTSTRUAL CYCLE TRACKER WITH SUGGESTING DIET PALN BASED OF THEIR MOOD ,PAIN,CRAVINGS.
+                  
 
-### Team Name: [Name]
+### Team Name: [hackstreet girls]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Aneena chandran] - [LBS college of engineering kasaragod]
+- Member 2: [Veda sudheeshan] - [LBS college of engineering kasaragod]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://vedanena-epjh.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+[FEM-HEALTH is an intelligent menstrual health app that goes beyond period prediction by providing personalized, phase-based diet plans aligned with hormonal changes. By analyzing user health data and cycle patterns, it generates adaptive nutrition guidance and healthier craving alternatives to reduce PMS, fatigue, and mood swings. It transforms menstrual tracking into a proactive hormonal health management system.]
 
 ### The Problem statement
-[What problem are you solving?]
+[LADIES DIET INCORPORATED WITH THEIR PERIOD TRACKER FOR PROPER HEALTH]
 
 ### The Solution
-[How are you solving it?]
+[BY DEVOLOPING AN APK ]
 
 ---
 
@@ -31,25 +32,24 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [CSS,JavaScript, Python, Java,HTML]
+- Frameworks used: [ Spring Boot]
+- Libraries used: [pandas, JUnit]
+- Tools used: [e.g., VS Code, Git,SUPABASE ]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+
+Feature 1: Personalized Health Profiling – Collects user data such as age, BMI, cycle length, symptoms, mood, sleep, and food preferences to generate tailored recommendations.
+
+Feature 2: Phase-Based Diet Planning – Identifies the current menstrual phase and provides customized meal plans aligned with hormonal and nutritional needs.
+
+Feature 3: AI-Powered Adaptive Recommendations – Uses rule-based logic and machine learning to learn from recurring symptoms, cravings, and mood patterns to continuously optimize diet plans.
+
+Feature 4: Craving Management System – Suggests healthier alternatives for common cravings, reducing guilt while maintaining nutritional balance.
+
 
 ---
 
@@ -81,28 +81,37 @@ List the key features of your project:
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots 
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1645" height="831" alt="Screenshot 2026-02-14 063929" src="https://github.com/user-attachments/assets/701191a2-af04-4247-80e5-08c648be680a" />
+perosnal lohin interface
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1621" height="833" alt="Screenshot 2026-02-14 063942" src="https://github.com/user-attachments/assets/e79b8691-7347-47ec-9afd-f23b3beb0cff" />
+adding personal details
+
+<img width="1865" height="860" alt="Screenshot 2026-02-14 063910" src="https://github.com/user-attachments/assets/ae31c463-80e3-4730-9ee7-1b0838a0d19b" />
+
+<img width="1866" height="876" alt="Screenshot 2026-02-14 063745" src="https://github.com/user-attachments/assets/ef89236d-edf3-4296-9746-8459f11bf9ab" />
+<img width="1858" height="856" alt="Screenshot 2026-02-14 063804" src="https://github.com/user-attachments/assets/f1d61950-365c-4933-8fc9-8bd9e2e8e4d3" />
+<img width="1865" height="864" alt="Screenshot 2026-02-14 063821" src="https://github.com/user-attachments/assets/99d939f6-7846-4279-91ee-5819d9d1fa75" />
+<img width="1861" height="850" alt="Screenshot 2026-02-14 063832" src="https://github.com/user-attachments/assets/470ab9f7-c06d-4fa2-9bee-b39e7aa08288" />
+<img width="1848" height="871" alt="Screenshot 2026-02-14 063845" src="https://github.com/user-attachments/assets/f74c0d8e-148a-4561-a309-d5831efa55b5" />
+<img width="1841" height="867" alt="Screenshot 2026-02-14 063900" src="https://github.com/user-attachments/assets/175618a4-1298-4143-9bb1-440d08056f78" />
+<img width="1865" height="860" alt="Screenshot 2026-02-14 063910" src="https://github.com/user-attachments/assets/53ead009-4b5e-449f-85dd-527bbc015b14" />
+
 
 #### Diagrams
+![WhatsApp Image 2026-02-14 at 7 34 54 AM](https://github.com/user-attachments/assets/8644c769-4068-41c3-8112-e1da712a871e)
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+
 
 **Application Workflow:**
+![WhatsApp Image 2026-02-14 at 7 34 54 AM](https://github.com/user-attachments/assets/8644c769-4068-41c3-8112-e1da712a871e)
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+
 
 ---
 
